@@ -50,7 +50,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: minsukim0209@gmail.com  
-- 📝 Blog: [king-koopa.tistoy.com](https://king-koopa.tistoy.com)  
+- 📝 Blog: [king-koopa.tistoy.com](https://king-koopa.tistory.com/)  
 
 ---
 
