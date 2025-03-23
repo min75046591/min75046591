@@ -34,9 +34,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **dekku** | Web-based 3D desk decoration service | Next, Three.js| [dekku - GitHub](https://github.com/min75046591/dekku) |
-| **strEAT** | Location-based food truck recommendation platform | Next, TypeScript | [strEAT - GitHub](https://github.com/strEAT-a307) |
-| **XR Pin** | AR smart glasses for spatial memos & task delegation | Unity, Mediapipe, Barracuda, NRSDK | [XR Pin - GitHub](https://github.com/min75046591/XRPin) |
+| **dekku** | Web-based 3D desk decoration service | Next, Three.js| [dekku](https://github.com/min75046591/dekku) |
+| **strEAT** | Location-based food truck recommendation platform | Next, TypeScript, PWA | [strEAT](https://github.com/strEAT-a307) |
+| **XR Pin** | AR smart glasses for spatial memos & task delegation | Unity, Mediapipe, Barracuda, NRSDK | [XR Pin](https://github.com/min75046591/XRPin) |
 
 ---
 
