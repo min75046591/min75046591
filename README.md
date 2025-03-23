@@ -1,18 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi there, I'm Minsu!</h1>
 <p align="center">
-Frontend Developer | SSAFY 9기 | AR/AI 관심 | 사용자 중심 개발 추구
+Frontend Developer who loves clean UI, seamless UX, and smart tech.
 </p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎯 프론트엔드 개발자 | 사용자 경험과 문제 해결에 집중합니다.
-- 📍 삼성 청년 SW 아카데미(SSAFY)에서 성장 중
-- 💡 관심 기술: **Web Frontend, AR, AI, 사용자 중심 서비스 개발**
-- 🤖 Colab을 활용한 AI 모델 학습 경험 보유 (on-device 활용 지향)
-- ✨ 작은 개선도 사용자 만족으로 이어진다고 믿습니다.
 
 ---
 
@@ -37,8 +27,9 @@ Frontend Developer | SSAFY 9기 | AR/AI 관심 | 사용자 중심 개발 추구
 **Backend & Tools**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
@@ -48,25 +39,26 @@ Frontend Developer | SSAFY 9기 | AR/AI 관심 | 사용자 중심 개발 추구
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **데꾸(Déccou)** | 3D로 책상을 꾸며보는 인테리어 서비스 | React, Three.js, Firebase | [GitHub](https://github.com/yourusername/데꾸프로젝트) |
-| **strEAT** | 푸드트럭 추천 및 위치 기반 분석 서비스 | Vue.js, Django, Python, 공공 API | [GitHub](https://github.com/yourusername/strEAT) |
-| **XR Pin** | XREAL AR 글래스를 활용한 공간 메모 및 지시 시스템 | Unity, Mediapipe, Barracuda, NRSDK | [GitHub](https://github.com/yourusername/XRPin) |
+| **dekku** | Web-based 3D desk decoration service | Next, Three.js| [GitHub](https://github.com/yourusername/데꾸프로젝트) |
+| **strEAT** | Location-based food truck recommendation platform | Next, TypeScript | [GitHub](https://github.com/yourusername/strEAT) |
+| **XR Pin** | AR smart glasses for spatial memos & task delegation | Unity, Mediapipe, Barracuda, NRSDK | [GitHub](https://github.com/yourusername/XRPin) |
 
 ---
 
 ### 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
+![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect
 
-- Email: your.email@example.com  
-- Blog: [Notion / velog / Tistory 등](https://yourblog.com)  
-- LinkedIn (선택)
+- 📧 Email: minsukim0209@gmail.com  
+- 📝 Blog: [king-koopa.tistoy.com](https://king-koopa.tistoy.com)  
 
 ---
 
-_꾸준히 배우고, 더 나은 사용자 경험을 고민하는 개발자입니다._ 🙌
+<p align="center">
+💡 <i>Passionate about building thoughtful products with purpose, not just pixels.</i>
+</p>
