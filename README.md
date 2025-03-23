@@ -1,6 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">Kim Minsu / FE Developer</h1>
----
 
 ### 🛠️ Tech Stack
 
