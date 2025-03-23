@@ -1,9 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm Minsu!</h1>
-<p align="center">
-Frontend Developer who loves clean UI, seamless UX, and smart tech.
-</p>
-
+<h1 align="center">Kim Minsu / FE Developer</h1>
 ---
 
 ### 🛠️ Tech Stack
